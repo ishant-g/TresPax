@@ -1,0 +1,5 @@
+
+chmod  +x * #give executable permission to files
+cd trespax/ #go to trespax folder
+./install.sh  #run installation file
+call "trespax" by typing the keyword in ANY TERMINAL SESSION
